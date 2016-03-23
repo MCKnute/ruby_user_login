@@ -28,6 +28,8 @@ gem 'bcrypt', '~> 3.1.7'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+gem 'rails-footnotes', '~> 4.0'
+
 gem 'hirb'
 
 # Use Capistrano for deployment
