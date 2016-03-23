@@ -1,1 +1,3 @@
-This is a test README file!
+Ruby on Rails User Login system 
+
+This simple Ruby on Rails login system runs on ruby 2.2.1, on a 64-bit Ubuntu 14.4 virtual machine run through VMWare Workstation 12 Player. I'll add more information in time...
